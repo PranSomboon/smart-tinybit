@@ -4,11 +4,14 @@
     "dependencies": {
         "core": "*",
         "microphone": "*",
-        "microbit-pxt-blehid": "github:bsiever/microbit-pxt-blehid#v0.0.23",
         "microbit-pxt-clicks": "github:bsiever/microbit-pxt-clicks#v0.2.2",
         "MakerBit-Ultrasonic": "github:1010technologies/pxt-makerbit-ultrasonic#v1.0.8",
         "Tinybit": "github:YahboomTechnology/Tiny-bitLib#V2.0.2",
-        "MakerBit-Motor": "github:1010technologies/pxt-makerbit-motor#v1.1.1"
+        "MakerBit-Motor": "github:1010technologies/pxt-makerbit-motor#v1.1.1",
+        "MaqueenPlus": "github:dfrobot/pxt-dfrobot-maqueenplus#v1.5.1",
+        "MakerBit-Pins": "github:1010technologies/pxt-makerbit-pins#v1.2.0",
+        "Wait Until Custom Blocks": "github:teacherpinky/wait-until-blocks#v0.1.12",
+        "motorbit": "github:tinkertanker/pxt-motorbit#v2.0.0"
     },
     "files": [
         "main.blocks",
