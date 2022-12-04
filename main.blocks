@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="uKx{.(e|=;nxE^bR.%|," x="0" y="0"><statement name="HANDLER"><block type="makerbit_ultrasonic_connect" id="9dx?x(#b9m)8IN=e{#]7"><field name="trig">DigitalPin.P16</field><field name="echo">DigitalPin.P15</field></block></statement></block></xml>
