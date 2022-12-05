@@ -11,7 +11,13 @@
         "MaqueenPlus": "github:dfrobot/pxt-dfrobot-maqueenplus#v1.5.1",
         "MakerBit-Pins": "github:1010technologies/pxt-makerbit-pins#v1.2.0",
         "Wait Until Custom Blocks": "github:teacherpinky/wait-until-blocks#v0.1.12",
-        "motorbit": "github:tinkertanker/pxt-motorbit#v2.0.0"
+        "motorbit": "github:tinkertanker/pxt-motorbit#v2.0.0",
+        "motobit": "github:sparkfun/pxt-moto-bit#v0.0.4",
+        "Bouw je BEP": "github:bouw-je-bep/bouw-je-bep#v1.2.2",
+        "UDriver_PCA9685": "github:tinkertanker/udriver_pca9585#v0.0.1",
+        "servo": "*",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.7.2",
+        "dot": "github:kodely-io/dot#v1.0.8"
     },
     "files": [
         "main.blocks",
